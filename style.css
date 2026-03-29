@@ -102,7 +102,7 @@ footer a { color: #2563eb; text-decoration: none; }
   margin-bottom: 32px;
   text-align: center;
 }
-.hero .icon { font-size: 56px; margin-bottom: 12px; }
+.hero .icon { font-size: 56px; margin-bottom: -36px; }
 .hero h2 { font-size: 24px; margin-bottom: 8px; background: none; border: none;
            padding: 0; color: #fff; border-radius: 0; }
 .hero p { opacity: .9; font-size: 15px; margin-bottom: 0; }
